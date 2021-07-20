@@ -1,0 +1,1 @@
+Git project to store ML practice projects
